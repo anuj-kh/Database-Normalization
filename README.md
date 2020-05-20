@@ -1,4 +1,4 @@
-# Normalization
+# Database-Normalization
 ## DBS Project - Module 1
 
 This project is done as a part of my **Database Systems course**.
